@@ -1,0 +1,11 @@
+All code is found under the "machinelearning_coursework" package in uea-tsc-master. 
+
+classes are called:
+
+Analysis.java
+InstanceContainer.java
+KNN.java
+KnnEnsemble.java
+MachineLearning_Coursework.java <-- this is the main class. Running should be done from here.
+testing.java
+WekaTools.java

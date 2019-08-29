@@ -1,0 +1,5 @@
+weka.core.AttributeExpression$NumericOperand
+weka.core.AttributeExpression$Operator
+weka.core.AttributeExpression$AttributeOperand
+weka.core.AttributeExpression$ExpressionComponent
+weka.core.AttributeExpression
